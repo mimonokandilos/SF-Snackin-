@@ -1,11 +1,11 @@
 body{
 background: url(http://www.sftravel.com/sites/sftraveldev.prod.acquia-sites.com/files/SanFrancisco_0.jpg) no-repeat center center fixed;
 background-size: center;
-margin:0;
 }
 
 .header{
   position: absolute;
+  top: 80px;
   width: 100%;
   height: 25px;
   background-color: #ffffff;
