@@ -1,0 +1,11 @@
+body{
+background: url(https://s3-us-west-2.amazonaws.com/sfmomamedia/static/sfmoma/images/logo-parts-sf.png) no-repeat center center fixed;
+background-size: center;
+}
+a:link{
+    text-decoration: none;
+    position: absolute;
+    bottom: 8px;
+    right: 16px;
+    color: black;
+}
