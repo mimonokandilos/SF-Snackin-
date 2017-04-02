@@ -9,5 +9,10 @@ background-size: center;
   color: black;
   font-family:"Courier New";
   font-size: 1;
+  text-decoration: none;
 }
 
+a:link{
+    font-size: 210%;
+    text-decoration: none;
+}

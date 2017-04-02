@@ -6,6 +6,7 @@
   color: black;
   font-family:"Courier New";
   font-size: 1;
+  text-decoration: none;
 }
 
 body, html {
@@ -26,3 +27,7 @@ body, html {
     background-size: cover;
 }
 
+a:link{
+    font-size: 210%;
+      text-decoration: none;
+}
